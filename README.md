@@ -1,5 +1,5 @@
 - 👋 Hi, I'm a [Suriya](https://www.suriyaprakhash.com/resume/detailed.pdf)
-- :man_office_worker: Software Engineer III at [M&T Bank](https://www3.mtb.com/)
+- :man_office_worker: **Software Development Sr.Manager** at [Citi](https://www.citi.com/)
 - :computer: I have *end to end experience* in *planning*, *building* and *maintaing* **Software products** and **Web based applications** 
 - 👀 I’m interested in Technology, Writing and Open Source
 - 🌱 I have always been in *the learning process* on a daily basis given *the type of work I do*.
